@@ -1,2 +1,2 @@
-# -HAN
+# HAN
 Blockchain practice of law
